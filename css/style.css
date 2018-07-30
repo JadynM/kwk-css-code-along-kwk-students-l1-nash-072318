@@ -1,1 +1,39 @@
 /* add CSS class and element and selectors here */
+
+h1 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+
+
+
+p {color:green;}
+
+.example { 
+  color:green;
+  font-size:14px;
+}
+
+body {
+      background-color:white;
+      font-size: 300%;{
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+      
+      {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+
+    }
+    
+  
+    
+       .myClass {
+      background-color:white;
+      color: green
+    }
+    
+    div {border-style: dotted;}
+  
